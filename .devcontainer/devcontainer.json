@@ -1,0 +1,7 @@
+{
+    "name": "AHC017",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "dev",
+    "workspaceFolder": "/workspace",
+    "shutdownAction": "stopCompose"
+}
